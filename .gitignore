@@ -1,2 +1,2 @@
-Ignore compiled output 
-compiledOutput.txt/
+#Ignore compiled output
+*.txt
